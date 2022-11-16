@@ -17,5 +17,5 @@
 
 + Regla 9: los elementos con id ``destacado``, tendrán un grosor de ``600`` y serán de color ``darkblue``
 
-+ Regla 10: los elementos con id ``indice``, serán de color ``cornflowerblue``, de grosor ``700``, alineados en el centro y en un tamaño ``30px``
++ Regla 10: los elementos con id ``indice``, serán de color ``darkblue``, de grosor ``700``, alineados en el centro y en un tamaño ``30px``, con un fondo de color ``gainsboro`` y las esquinas redondeadas ``5px``.
 
